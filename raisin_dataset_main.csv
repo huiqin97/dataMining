@@ -1,4 +1,4 @@
-Area,MajorAxisLength,MinorAxisLength,Eccentricity,ConvexArea,Extent,Perimeter,Class,Date,OriginCountry,UnitPrice,Amount(kg)
+Area,MajorAxisLength,MinorAxisLength,Eccentricity,ConvexArea,Extent,Perimeter,Class,Date,ManufacturCountry,UnitPrice,Amount(kg)
 87524,442.2460114,253.291155,0.819738392,90546,0.758650579,1184.04,Kecimen,31/5/2022,France,27,3502
 75166,406.690687,243.0324363,0.801805234,78789,0.68412957,1121.786,Kecimen,14/8/2020,Australia,41,5871
 90856,442.2670483,266.3283177,0.798353619,93717,0.637612812,-1208.575,Kecimen,7/3/2022,France,22,2538
